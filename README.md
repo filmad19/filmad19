@@ -8,6 +8,7 @@ Hi👋, I am a Web Developer & Software Developer who loves to code! I currently
 
 - React
 - Angular
+- TypeScript
 - NextJS
 - GraphQL
 

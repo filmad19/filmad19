@@ -7,10 +7,9 @@ Hi👋, I am a Web Developer & Software Developer who loves to code! I currently
 ### 🌱 What I want to learn in 2022...
 
 - React
+- Angular
 - NextJS
-- ChakraUI
 - GraphQL
-- MongoDB, PostgreSQL
 
 ### 📫 How to reach me...
 

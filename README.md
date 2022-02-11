@@ -1,6 +1,6 @@
 ### Matthias FILZMAIER
 
-> COO at Nvcked.
+> COO at Dealous Projects.
 
 Hi👋, I am a Web Developer & Software Developer who loves to code! I currently attend the HTBLA Kaindorf.
 

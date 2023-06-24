@@ -1,12 +1,12 @@
 ### Matthias FILZMAIER
 
-Hi👋, I am a Web Developer & Software Developer who loves to code! I currently attend the HTBLA Kaindorf.
+Hi👋, I am a Software Developer who loves to code! I currently attend the HTBLA Kaindorf.
 
 ### 🌱 What I want to learn in 2022/2023...
 
 - React
 - Angular
-- TypeScript
+- Python
 
 ### 📫 How to reach me...
 

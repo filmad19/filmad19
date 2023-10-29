@@ -2,11 +2,12 @@
 
 Hi👋, I am a Software Developer who loves to code! I currently attend the HTBLA Kaindorf.
 
-### 🌱 What I want to learn in 2022/2023...
+### 🌱 What I want to learn in 2023/2024...
 
 - React
 - Angular
 - Python
+- Rust
 
 ### 📫 How to reach me...
 
